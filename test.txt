@@ -1,1 +1,1 @@
-bangalore:irukku
+city : vadalur
