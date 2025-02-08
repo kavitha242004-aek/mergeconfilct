@@ -1,1 +1,1 @@
-chennai:irukku
+city : vadalur
